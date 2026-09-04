@@ -66,9 +66,7 @@ AI 会根据当前牌局选择出牌，并加入一定的随机性，使不同�
 ```bash
 g++ bie7.cpp drawCard.cpp -o bie7
 ```
-Windows 下可以生成：
-
-g++ bie7.cpp drawCard.cpp -o bie7.exe
+Windows 下可以生成：bie7.exe
 
 然后运行：
 ```bash
